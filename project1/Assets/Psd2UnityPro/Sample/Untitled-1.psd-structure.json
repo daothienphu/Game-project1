@@ -1,0 +1,13 @@
+{"type":"root","options":{
+
+},"size":{"width":1920,"height":1080},"children":[{"name":"OptionsButton","type":"button","options":{"buttonStates":["normal"]},"offset":{"left":1115,"top":616},"size":{"width":409,"height":133},"relativePath":"OptionsButton","children":[
+
+]},{"name":"StartButton","type":"button","options":{"buttonStates":["normal"]},"offset":{"left":362,"top":616},"size":{"width":409,"height":133},"relativePath":"StartButton","children":[
+
+]},{"name":"[GAME NAME HERE]","type":"text","options":{"opacity":100,"textContents":"[GAME NAME HERE]","textFont":"MyriadPro-Regular","textSize":144,"textColor":{"red":0,"green":0,"blue":0}},"offset":{"left":377,"top":224},"size":{"width":1166,"height":115},"relativePath":"[GAME NAME HERE]","children":[
+
+]},{"name":"Background","type":"png","options":{
+
+},"offset":{"left":0,"top":0},"size":{"width":1920,"height":1080},"relativePath":"Background","children":[
+
+]}]}
